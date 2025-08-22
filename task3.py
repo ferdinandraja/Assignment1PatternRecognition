@@ -44,3 +44,6 @@ xy = pts.detach().cpu().numpy()
 plt.figure(figsize=(16, 10))
 plt.plot(xy[:, 0], xy[:, 1], linewidth=0.8)
 plt.show()
+
+
+# my ai assist link: https://chatgpt.com/share/68a7f24b-89e4-8013-89d2-5250c9adab25  , https://chatgpt.com/share/68a7f25f-c380-8013-bc6a-68b7447c01d6   
